@@ -4,7 +4,7 @@
 " ></video>
 
 ## 메인 세로 스크롤
-
+<video loop autoplay muted src="https://user-images.githubusercontent.com/94097695/151302891-2f88cb33-a061-44d1-b8ac-59d182dde94c.mp4"></video>
 
 ## 메인 가로 스크롤
 <video loop autoplay muted  src="https://user-images.githubusercontent.com/94097695/150936598-0f70b196-f0c8-4140-a9aa-7842be7e0550.mp4"></video>
