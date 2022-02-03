@@ -23,4 +23,5 @@
 <video autoplay muted loop  src="https://user-images.githubusercontent.com/94097695/150942815-57671fa9-58b3-4519-8599-9d8e608e979d.mp4"></video>
 
 ## 환경설정 슬라이드버전
-<video  loop autoplay muted src="https://user-images.githubusercontent.com/94097695/152293337-8ced0634-95cf-4f16-9e99-dd80c813e5d4.mp4"></video>
+<video  loop autoplay muted src="https://user-images.githubusercontent.com/94097695/152293648-89210e30-d556-4d0a-9af6-036d5132a47a.mp4
+"></video>
